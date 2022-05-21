@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danillo-mbz
+- 👋 Hi, I’m Danillo 
 - 👀 I’m working as a Senior Tech Recruiter
 - 🌱 I’m currently learning python and data scraping
 - 💞️ I’m looking to collaborate by bringing good opportunities to the conversation
