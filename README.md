@@ -2,7 +2,7 @@
 - 👀 I’m working as a Senior Tech Recruiter
 - 🌱 I’m currently learning python and data scraping
 - 💞️ I’m looking to collaborate by bringing good opportunities to the conversation
-- 📫 How to reach me danillo.baptista@land.tec.br
+- 📫 How to reach me danillo.baptista@landtech.net.br
 
 <!---
 danillo-mbz/danillo-mbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
